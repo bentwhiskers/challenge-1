@@ -4,7 +4,7 @@
 This project will start with existing code for a website and refactor it to make it more accessible. 
 
 ## Screenshot
-
+<img width="1417" alt="image" src="https://user-images.githubusercontent.com/126021339/223885129-c3c14a54-2873-4641-b0f5-40566f9c2b08.png">
 
 ## Link to Website
 
