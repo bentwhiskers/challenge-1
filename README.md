@@ -3,6 +3,12 @@
 ## Description
 This project will start with existing code for a website and refactor it to make it more accessible. 
 
+## Screenshot
+
+
+## Link to Website
+
+
 ## Credits
 https://medium.com/@sergimarquez/8-best-practices-to-write-clean-html-code-1cd407e2a7ec
 
